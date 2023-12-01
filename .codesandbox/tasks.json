@@ -11,8 +11,7 @@
   "tasks": {
     "clean": {
       "name": "clean",
-      "command": "yarn clean",
-      "runAtStart": false
+      "command": "yarn clean"
     },
     "dev": {
       "name": "dev",
@@ -21,53 +20,43 @@
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     },
     "start": {
       "name": "start",
-      "command": "yarn start",
-      "runAtStart": false
+      "command": "yarn start"
     },
     "lint": {
       "name": "lint",
-      "command": "yarn lint",
-      "runAtStart": false
+      "command": "yarn lint"
     },
     "format": {
       "name": "format",
-      "command": "yarn format",
-      "runAtStart": false
+      "command": "yarn format"
     },
     "format:check": {
       "name": "format:check",
-      "command": "yarn format:check",
-      "runAtStart": false
+      "command": "yarn format:check"
     },
     "typecheck": {
       "name": "typecheck",
-      "command": "yarn typecheck",
-      "runAtStart": false
+      "command": "yarn typecheck"
     },
     "db:generate": {
       "name": "db:generate",
-      "command": "yarn db:generate",
-      "runAtStart": false
+      "command": "yarn db:generate"
     },
     "db:push": {
       "name": "db:push",
-      "command": "yarn db:push",
-      "runAtStart": false
+      "command": "yarn db:push"
     },
     "db:studio": {
       "name": "db:studio",
-      "command": "yarn db:studio",
-      "runAtStart": false
+      "command": "yarn db:studio"
     },
     "db:migrate": {
       "name": "db:migrate",
-      "command": "yarn db:migrate",
-      "runAtStart": false
+      "command": "yarn db:migrate"
     }
   }
 }
